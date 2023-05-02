@@ -1,0 +1,3 @@
+C:/Users/Egor/CLionProjects/lab3_C++/cmake-build-debug/CMakeFiles/lab3_C__.dir
+C:/Users/Egor/CLionProjects/lab3_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Egor/CLionProjects/lab3_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
